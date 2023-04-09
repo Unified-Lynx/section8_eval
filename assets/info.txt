@@ -1,2 +1,4 @@
+** the excel files are for MULTIFAMILY housing. 
+** rents being paid with vouchers cant be found, only project housing.
 
 
